@@ -8,8 +8,6 @@ Landing page satu halaman untuk tiga produk StackFlow: **ERP Marketplace**, **St
 https://judienmz.github.io/stackflow-landing/
 ```
 
-*(ganti sesuai username & nama repo GitHub kamu setelah Pages aktif)*
-
 ## 📦 Isi
 
 ```
